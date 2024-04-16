@@ -9,5 +9,5 @@ LINK : https://drive.google.com/file/d/1NF00AYk6qYKnYXWsDxFE3oJmG_eh7bKU/view?us
 
 LINK of Course "Deep learning" for more detail:
 ```bash
-https://nthu-datalab.github.io/ml/competitions/Comp_04_Recommender-System/competition4.html
+https://nthu-datalab.github.io/ml/
 ```
